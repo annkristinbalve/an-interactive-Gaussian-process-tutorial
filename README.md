@@ -1,4 +1,4 @@
-# An Interactive Gaussian Process Tutorial
+# Exploring Uncertainty with Gaussian Processes: An Interactive Tutorial
 
 This repository contains an interactive tutorial that introduces **Gaussian Process regression** through a simple weather-forecasting example.  
 The goal is to make Gaussian Processes intuitive and accessible through clear visuals and hands-on exploration.
